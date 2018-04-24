@@ -1,2 +1,2 @@
 # spring-integration-samples
-Simple - samples! Spring-integratio basics
+Simple - samples! Spring-integration basics
